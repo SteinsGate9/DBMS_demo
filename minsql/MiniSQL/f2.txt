@@ -1,0 +1,2 @@
+select * from counter where count < 5000 and num >= 487.7;
+$end

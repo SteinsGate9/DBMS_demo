@@ -1,0 +1,1 @@
+delete from address where distance < 34.0;

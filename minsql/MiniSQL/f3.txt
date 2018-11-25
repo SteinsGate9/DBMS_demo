@@ -1,0 +1,2 @@
+delete from counter where num <> 1.7;
+$end

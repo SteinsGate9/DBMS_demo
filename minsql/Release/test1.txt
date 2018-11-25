@@ -1,0 +1,6 @@
+create table student ( 
+id int , 
+name char(10) unique , 
+mark float , 
+primary key ( id )
+);

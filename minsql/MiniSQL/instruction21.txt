@@ -1,0 +1,6 @@
+select * from student2 where score <> 97 and id >= 1080101661;
+delete from student2 where name = '³Â·ÖÒ×';
+select * from student2 where id >= 1080101663 and name = '¹ù¾²';
+select * from student2 where id >= 1080101663 and id < 1080101664;
+select * from student2;
+delete from student2;

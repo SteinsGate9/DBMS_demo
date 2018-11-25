@@ -1,0 +1,2 @@
+delete from student2 where name = '³Â·ÖÒ×';
+$end

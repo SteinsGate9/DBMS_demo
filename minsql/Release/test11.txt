@@ -1,0 +1,4 @@
+insert into student values ( 5, 'aaaaa', 89 );
+insert into student values ( 6, 'bbbbbb', 87.2 );
+insert into student values ( 7, 'cccccc dd', 89.3 );
+$end;

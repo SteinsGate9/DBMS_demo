@@ -1,0 +1,1 @@
+create index student_index on student ( id );

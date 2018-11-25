@@ -1,0 +1,2 @@
+delete from counter where num > 1049.8;
+$end

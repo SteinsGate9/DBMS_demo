@@ -1,0 +1,102 @@
+10
+@
+student
+3
+0
+0
+id name address 
+int char(10) char(10) 
+1 0 0 
+no indexes
+no
+@
+test
+2
+0
+0
+a b 
+int int 
+0 0 
+no indexes
+no
+@
+c
+3
+4
+0
+a b c 
+int int int 
+0 0 0 
+no indexes
+no
+@
+fuck
+1
+0
+0
+a 
+int 
+0 
+no indexes
+no
+@
+d
+2
+0
+0
+a b 
+int int 
+0 0 
+no indexes
+no
+@
+f
+3
+0
+0
+a b c 
+int float int 
+1 1 0 
+no indexes
+no
+@
+f2
+3
+1
+0
+a b c 
+int float char(10) 
+0 0 0 
+no indexes
+no
+@
+address
+2
+1000
+0
+addr distance 
+char(8) float 
+0 0 
+no indexes
+addr
+@
+counter
+2
+1
+0
+num count 
+float int 
+0 0 
+no indexes
+num
+@
+student2
+3
+9001
+0
+id name score 
+int char(12) float 
+0 1 0 
+no indexes
+id
+$end

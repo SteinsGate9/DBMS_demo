@@ -1,0 +1,2 @@
+insert into student values 
+( 0 , 'Tom' , 90.2 ) ;

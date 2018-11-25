@@ -1,0 +1,1 @@
+select * from student where id > 2 or name = 'Jim';
